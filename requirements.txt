@@ -36,7 +36,7 @@ PyPDF2==1.26.0
 python-jsonrpc-server==0.3.4
 python-language-server==0.31.10
 pytz==2020.1
-PyYAML==5.3.1
+PyYAML==5.4
 requests==2.23.0
 six==1.14.0
 soupsieve==2.0
